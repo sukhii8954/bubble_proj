@@ -68,6 +68,7 @@ document.querySelector("#btmpanel").addEventListener("click",function(dets){
   
 })
 
+
 makebubble();
 runtimer();
 newHit(); 
